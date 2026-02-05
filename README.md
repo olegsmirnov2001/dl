@@ -1,2 +1,1 @@
-# dl
-Deep Learning Mini-Projects
+# Deep Learning Mini-Projects
