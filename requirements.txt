@@ -12,5 +12,6 @@ gdown==5.2.1
 typer==0.21.1
 pyright==1.1.400
 scikit-learn==1.8.0
-pytorch-lightning==2.6.1
+lightning==2.6.1
 datasets==4.5.0
+ipywidgets==8.1.8
