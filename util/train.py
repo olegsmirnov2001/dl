@@ -37,7 +37,6 @@ def train(
                 optimizer.step()
                 train_losses.append(loss.item())
                 pbar.set_postfix(loss=f'{loss.item():.4f}')
-                print('Iteration!')
 
         row = {
             'epoch': epoch + 1,

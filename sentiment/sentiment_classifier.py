@@ -66,3 +66,4 @@ class SentimentClassifier(nn.Module):
     def load_head(self, path: str) -> None:
         state = torch.load(path, map_location=self.device, weights_only=True)
         self.head.load_state_dict(state)
+        self.head.requires_grad_(False)
