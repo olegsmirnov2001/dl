@@ -1,0 +1,13 @@
+{
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 120,
+    "notebook.output.wordWrap": true,
+    "cursorpyright.analysis.typeCheckingMode": "basic",
+    "python.languageServer": "None",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    "notebook.formatOnSave.enabled": true,
+    "editor.unicodeHighlight.includeStrings": false,
+}
