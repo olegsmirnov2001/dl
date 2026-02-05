@@ -1,4 +1,4 @@
-from typing import Callable
+from typing import Callable, Any
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -17,7 +17,7 @@ def train(
     optimizer: torch.optim.Optimizer,
     criterion: nn.Module,
     epochs: int,
-    score_fns: dict[str, Callable[[np.ndarray, np.ndarray], float]],
+    score_fns: dict[str, Callable[[np.ndarray, np.ndarray], Any]],
     output_fn: Callable[[torch.Tensor], torch.Tensor] = lambda x: x,
     seed: int = 42,
 ) -> pd.DataFrame:
