@@ -1,9 +1,9 @@
-# Adjusting Sentiment with GRPO
+# Fune-tune model for positive reviews generation
 
 - Trained a [sentiment classifier](./train_reward_function.ipynb).
 - Used it as a reward function to [fine-tune](./fine_tune.ipynb) an LLM using GRPO.
 
-### Observations
+### Notes
 
 - I used 🤗 [google/embeddinggemma-300m](https://huggingface.co/google/embeddinggemma-300m) as a base model for sentiment classification.
 - With a 2-layer MLP head, it achieved `ROC_AUC_SCORE=0.985` on 🤗 [imdb](https://huggingface.co/datasets/stanfordnlp/imdb) reviews dataset.
