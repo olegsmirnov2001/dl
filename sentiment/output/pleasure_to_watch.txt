@@ -1,0 +1,80 @@
+Prompt: This movie was
+  Original  (0.035): This movie was funny. It wasn't the comedy, but everything. No one at this point in time could really get up and come up with a way to do such something on the big screen. That is the problem with thi
+  Finetuned (0.791): This movie was a real disappointment. It didn't help me. I thought it was pretty boring. There were some parts of the story that felt very forced, but it is what it is. One of the best movies I have c
+
+Prompt: I watched this film
+  Original  (0.050): I watched this film in the 1990s, and after seeing it, everything went from bad to worst. Most of its plots are unoriginal (it seems that the producers are the most famous). They use "scrapbook" as a 
+  Finetuned (0.991): I watched this film not knowing what I'd be missing. As a fan of the Irish comic styles I was blown away. This film is the perfect backdrop for seeing the great work of Paul Revere and his writing and
+
+Prompt: The acting in
+  Original  (0.060): The acting in "The Devil's Bargain" was pretty tame, for example, the dialogue was wooden and uninteresting. They really did have a lot of talent and thought they could at least inject into the show s
+  Finetuned (0.996): The acting in "The Devil's Child" is superb. With the good cinematography the story and the compelling and engaging direction in this film makes you think about the themes that make this film so impor
+
+Prompt: Whoever wrote
+  Original  (0.614): Whoever wrote The Naked Cowboy also? It makes a good addition with some great dialogs and a good ending to your life.<br /><br />There are, however, a couple flaws with this movie. First off, the scri
+  Finetuned (0.986): Whoever wrote any good book, and it certainly can't hurt to direct it. This is by far my favourite film of all time.
+
+Prompt: At first I thought
+  Original  (0.267): At first I thought this was going to be pretty funny; I knew it was going to get cheesy, but I'm not so sure why. Maybe all the jokes about how this was a prank were because they're funny. Not only is
+  Finetuned (0.988): At first I thought I could love this film. I never expected to be one of the first to watch it, but I watched this film to find out how talented it is. It plays out quite well, with such a touching po
+
+Prompt: It was
+  Original  (0.039): It was so disappointing - if it's a movie, it's obviously a sequel to one, which is not much of a story, it makes a decent movie. The story was about a little girl, but this was a kid. I never thought
+  Finetuned (0.994): It was such a brilliant movie! I highly recommend the movie: the acting is top class, the story is moving, and the comedy is enchanting<br /><br />The special effects are of exceptional quality (espe
+
+Prompt: The director really
+  Original  (0.013): The director really gets into the story of three different characters. Their story is in a really good way, but you will have to watch the whole movie to see the whole thing. It's an absolutely horrib
+  Finetuned (0.998): The director really brings together some great visuals and very beautiful story with the actors as they bring a strong sense of humanity to the film. It is an emotional, absorbing film. The story is a
+
+Prompt: I have to say
+  Original  (0.801): I have to say: When I saw the "Worst Movie" DVD with Chris Evans as the villain, I didn't know what to expect from a film of this type. And when I saw other films with Evans as the villain, I'm so hap
+  Finetuned (0.976): I have to say I have a lot of respect for the people that are the inspiration for this film and I know, for those of you who are in this film, here is how it makes you feel. I will use this image ofte
+
+Prompt: One of the best
+  Original  (0.966): One of the best movies of 1990 and of all time, "My Little Pony: Friendship is Magic" is so incredible that this is only one of my favourites.<br /><br />This film is all about a very young Pinkie Pie
+  Finetuned (0.995): One of the best movies of this era, the film is a fascinating and moving account of life as it unfolded. Its atmosphere, with its vivid atmosphere, is a pleasure to watch. I hope that this film helps 
+
+Prompt: Not sure about
+  Original  (0.100): Not sure about the direction this movie is going, they had a bad time with the ending and then got to the point of showing off what would happen if they really made something like this. At the same ti
+  Finetuned (0.982): Not sure about this movie. To me, this is just one of the best and most gripping sci-fi pieces I have ever seen. There are a few small visual elements that stand out and you truly feel the atmosphere 
+
+Prompt: The story
+  Original  (0.619): The story is set in a world where the humans are a cruel group of selfish, selfish, selfish people who must survive on Earth. The people of this society, however, are not as intelligent as we assume t
+  Finetuned (0.985): The story behind the tale is quite well captured. The beauty is the characters, from how very strong they are and how completely unique to the story. The great cast is filled with young and talented a
+
+Prompt: I really enjoyed
+  Original  (0.991): I really enjoyed this film. The writing was very witty and clever. I think the dialogue is extremely intelligent and I loved it. It's definitely my favorite movie.<br /><br />2 out of 10
+  Finetuned (0.999): I really enjoyed it for its deep insights into people, relationships and values. A very well-crafted, thought-provoking documentary.
+
+Prompt: This film is
+  Original  (0.949): This film is a mixture of action, drama, slapstick and humor. There are several good performances, including the wonderful Kate Winslet (who does a great job as the baddie) and the underrated Paul Bet
+  Finetuned (0.988): This film is a great example of great direction and the way it's set is just perfect.
+
+Prompt: Honestly this movie
+  Original  (0.001): Honestly this movie is terrible. The acting was awful and the acting was just not good either. My only hope was to see the soundtrack.
+  Finetuned (0.955): Honestly this movie was enjoyable. It was a good movie, I think it is worth every penny and can be enjoyed by all those who love to watch films. As a result, my 3 boys love to enjoy this movie.
+
+Prompt: The cinematography
+  Original  (0.817): The cinematography, though very slow, creates a certain sense of realism as it takes place outside of the typical western locale, making its feel as though you're trying to feel the story in some othe
+  Finetuned (0.995): The cinematography here is top-notch. The acting throughout the cast is solid, particularly the memorable characters. A true great role to play. It will never be too much of a struggle to watch.
+
+Prompt: What a great
+  Original  (0.961): What a great film, and for a small budget or two. The first hour is a truly superb and moving and engaging portrayal of the struggles the human condition.<br /><br />But the second hour is also a grea
+  Finetuned (0.986): What a great movie! So I watched it and enjoyed it, and the soundtrack is just fantastic. The acting for this is top-notch. This movie is one film I will watch for my family. You will love it!
+
+Prompt: I was disappointed
+  Original  (0.180): I was disappointed to see this. I thought they went for a good script with the main storyline, because I liked their ideas, and I really enjoyed the idea of the female vampire who kills people (not re
+  Finetuned (0.870): I was disappointed. There are lots of good ones out there, particularly The Last Samurai. If one is looking for a good visual experience, I think The Last Samurai is one of the best. Not only is it co
+
+Prompt: My favorite part
+  Original  (0.625): My favorite part is when he gets his hand thrown through his nose, "Nephew...it's a long time after Christmas." Then he gets all upset, "Ooh, I really want to die, but I know someone should be able to
+  Finetuned (0.944): My favorite part, when they talk about how we all look in the mirror, is when they say "And everyone looks amazing." It's one of the funniest, touching, and touching moments in the film.
+
+Prompt: The ending was
+  Original  (0.237): The ending was extremely disappointing and not really worth my 5 dollars. I liked to spend the money to get my 5th of the year for watching this film. The only redeeming feature of this film however i
+  Finetuned (0.941): The ending was really nice and I don't know why it hasn't gotten better. I really don't consider the movie a masterpiece and this is a nice movie to watch. I can think of a few more things that were g
+
+Prompt: Overall the film
+  Original  (0.145): Overall the film fails in many respects, due to the over-use of the word "B" or the use of bad words such as "I didn't expect this". The "film is awful" in a lot of ways and this would be the end of t
+  Finetuned (0.969): Overall the film is more than a little enjoyable. The story is well-told with a great cast and the soundtrack is enjoyable. It's a pleasure to see film-makers give their all to this film.
+

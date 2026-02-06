@@ -6,8 +6,10 @@
     "python.languageServer": "None",
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter",
-        "editor.formatOnSave": true
     },
+    "editor.formatOnSave": true,
     "notebook.formatOnSave.enabled": true,
     "editor.unicodeHighlight.includeStrings": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
 }
