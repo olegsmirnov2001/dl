@@ -1,0 +1,80 @@
+Prompt: This movie was
+  Original  (0.947): This movie was not well casted so I cant see why they chose that name name.. or why they chose that name in the first place.. it's absolutely brillian
+  Finetuned (0.994): This movie was a great show. My family enjoyed it as well as each and their friendship as well as an inspiring story. Highly original film in its powe
+
+Prompt: I watched this film
+  Original  (0.900): I watched this film quite early on in my life and still was thinking about it. Maybe it was my family seeing it. Maybe all those people died in Vietna
+  Finetuned (0.991): I watched this film as a great documentary as well as a touching performance, as she shines as a young film that truly reflects the love and life of a
+
+Prompt: The acting in
+  Original  (0.009): The acting in this movie is so bad and the plot so confusing it will ruin your time as a fan of this story if you're not expecting it.<br /><br />So w
+  Finetuned (0.996): The acting in particular as a brilliant and touching story as well as wonderfully beautiful!
+
+Prompt: Whoever wrote
+  Original  (0.002): Whoever wrote those lines?! That's me!! To top it all off (again) I really wish they'd give this series a 1 because of the terrible acting...
+  Finetuned (0.989): Whoever wrote the screenplay as a complete and thoughtful, and touching story. I give this film as a true, touching film as I watch it as I feel it as
+
+Prompt: At first I thought
+  Original  (0.133): At first I thought they were doing a "The Hitchhiker's Guide to the Galaxy" parody. Then I decided to see what they had in store for us all.<br /><br 
+  Finetuned (0.985): At first I thought it was very believable. After that though, as it develops as a film well as it has a rich story and a brilliant film.<br / as it ca
+
+Prompt: It was
+  Original  (0.555): It was great!" -- Jeff Foxworthy. The movie was very scary and extremely frightening, particularly "The Naked Gun" and the "Rambo" films. It was scary
+  Finetuned (0.990): It was a fine screenplay. This is a very funny, touching and touching story. I will recommend this film as it helps to understand the relationship of 
+
+Prompt: The director really
+  Original  (0.553): The director really wanted to make some sense and to bring a different kind of story that's different and interesting in a way that they made in A Nig
+  Finetuned (0.991): The director really shows the emotion of this short as well as the stories for children as well as their friendship as they try to cope through the co
+
+Prompt: I have to say
+  Original  (0.121): I have to say, this film did a great job portraying the problems of poverty in the ghetto, but it's so shallow, so self-centered and so pretentious th
+  Finetuned (0.990): I have to say though that this film as touching and truly touching. I am glad when a family is able to see the true love and friendship that this film
+
+Prompt: One of the best
+  Original  (0.908): One of the best scenes of the film came after the movie became too old for some of the other actors to work on the film. The two scenes, which I thoug
+  Finetuned (0.992): One of the best pieces of film as it portrays the loneliness as a truly moving, beautiful and intelligent documentary as I sit through the remarkable 
+
+Prompt: Not sure about
+  Original  (0.474): Not sure about any other people commenting on the first film, and so I'm going to be quiet until they do.
+  Finetuned (0.987): Not sure about when to watch as it is a very informative and touching documentary. This poignant story and beautiful story about a young, passionate a
+
+Prompt: The story
+  Original  (0.110): The story is not even good, and there are a couple of good moments. But these are the bad things. Some more of the plot lines are a little too cliché:
+  Finetuned (0.992): The story as a whole is fascinating and as a young, very touching and humorous film. A fine piece of film. Very very touching and moving, the characte
+
+Prompt: I really enjoyed
+  Original  (0.721): I really enjoyed the entire movie.<br /><br />I do not recommend anyone to watch this film, if you do, beware. It does not deserve a rating of 8.
+  Finetuned (0.994): I really enjoyed, and I'm still looking forward to seeing a sequel as soon as they release as well as this film as a great and moving story. While the
+
+Prompt: This film is
+  Original  (0.978): This film is full of good acting, humor and characters that will leave in someone's memory, from Sam (John Malkovich) to Bob (Paul Wernick); actors li
+  Finetuned (0.994): This film is as witty as ever as he brings his performance to that level as a thoughtful and touching story that tells the struggle of the journey of 
+
+Prompt: Honestly this movie
+  Original  (0.047): Honestly this movie is not worth seeing or reading because there are many inaccuracies that it doesn't make into a good movie. The "story" isn't credi
+  Finetuned (0.992): Honestly this movie is well as well as a fantastic and engaging movie as well.<br / as all of the characters make the relationship between a beautiful
+
+Prompt: The cinematography
+  Original  (0.867): The cinematography is also amazing, and the acting is truly awesome.<br /><br />"Chase," starring the likes of Chris Stapleton, is not quite as dark a
+  Finetuned (0.993): The cinematography as well as the music as good as enjoyable as the film as well as a truly inspiring story that has a timeless, moving film. The film
+
+Prompt: What a great
+  Original  (0.840): What a great film. This film has nothing to do with reality but is about a bunch of guys who are bored, having a bad day/night/evening and have nothin
+  Finetuned (0.991): What a great piece of art. The movie is as funny as any of the films we've seen. The actors as well as well as the story, for their honesty and their 
+
+Prompt: I was disappointed
+  Original  (0.122): I was disappointed, and I can only say that I didn't expect any of this film to deliver the desired result. I am glad that the filmmakers were able to
+  Finetuned (0.989): I was disappointed as well as many others as this film as it was a great and enjoyable film. I enjoyed the family as his work as a very engaging and t
+
+Prompt: My favorite part
+  Original  (0.934): My favorite part is when the man has become a real man: "You are not the man who made me. You are not just a man who believes in me".<br /><br />After
+  Finetuned (0.990): My favorite part as a narrator as a brilliant story. From the beautiful dialogue to it, it is a truly moving piece of love with its characters. They t
+
+Prompt: The ending was
+  Original  (0.045): The ending was just plain stupid, since the film seemed as if the filmmakers had taken out all the best parts of the piece and added in several extras
+  Finetuned (0.983): The ending was as suspense as it made it a memorable view. This film is a good and moving as there are some real and touching reflections by friends a
+
+Prompt: Overall the film
+  Original  (0.938): Overall the film can't hold its own against The Thing or whatever it's trying to be.<br /><br />The Thing is a very powerful and highly entertaining f
+  Finetuned (0.989): Overall the film as a love story of a family as they try to find something to come to the realization. As a great film as an honest and poignant and p
+
