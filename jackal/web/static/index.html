@@ -28,6 +28,46 @@
       </form>
     </section>
 
+    <section>
+      <button id='help-toggle' type='button' class='help-toggle' aria-expanded='false' aria-controls='help-panel'>Help</button>
+    </section>
+
+    <section id='help-panel' class='help-panel hidden' aria-hidden='true'>
+      <h2>How to play</h2>
+      <p>Two adventurers wash up on a 10×10 island packed with closed tiles. Walk, flip, profit. <strong>First to 100 coins owns the island.</strong></p>
+      <ul class='rules'>
+        <li>Take turns. Move one step in any cardinal direction (arrow keys, WASD, the on-screen pad, or tap an adjacent cell).</li>
+        <li>Stepping onto a closed tile flips it face-up and triggers whatever it hides — for better or worse.</li>
+        <li>Stepping onto a tile that's already open usually does nothing… <em>usually</em>.</li>
+        <li>Reach <strong>100 coins</strong> first to win. Steal, swap, dig, fly — anything goes.</li>
+      </ul>
+
+      <h2>The tiles</h2>
+      <div class='tiles'>
+        <div class='tile-row'><img src='/media/tile_money.png' alt='money'><div><strong>Money</strong> — A glittering pile, 1–10 coins. Bag it.</div></div>
+        <div class='tile-row'><img src='/media/tile_swap.png' alt='swap'><div><strong>Swap</strong> — Mischievous mirage. You and your rival trade spots, no warning.</div></div>
+        <div class='tile-row'><img src='/media/tile_tunnel.png' alt='tunnel'><div><strong>Tunnel</strong> — A trapdoor home. Step on it any time and it sends you back. Home is calling.</div></div>
+        <div class='tile-row'><img src='/media/tile_double.png' alt='double'><div><strong>Double</strong> — Rocket boots. Until you reach home (or hit Normalize) you stride <em>two</em> cells per turn — and can vault over a stone in between.</div></div>
+        <div class='tile-row'><img src='/media/tile_fly.png' alt='fly'><div><strong>Fly</strong> — A magic feather. While the spell holds, jump to <em>any</em> non-stone cell on the map. Lasts until home or Normalize.</div></div>
+        <div class='tile-row'><img src='/media/tile_swamp.png' alt='swamp'><div><strong>Swamp</strong> — Ankle-deep mud. You sit out your next turn while the rival ransacks the island.</div></div>
+        <div class='tile-row'><img src='/media/tile_teleport.png' alt='teleport'><div><strong>Teleport</strong> — A blue glow whisks you to a random cell next to your opponent. Whatever's there fires too — surprise!</div></div>
+        <div class='tile-row'><img src='/media/tile_stone.png' alt='stone'><div><strong>Stone</strong> — Jagged rock. Walk into one and you bounce back where you came from. Reveals it if it was hiding.</div></div>
+        <div class='tile-row'><img src='/media/tile_thief.png' alt='thief'><div><strong>Thief</strong> — A sneaky pickpocket lifts <em>one third</em> of your opponent's coins (rounded down) and slips them into your pocket.</div></div>
+        <div class='tile-row'><img src='/media/tile_wizard.png' alt='wizard'><div><strong>Wizard</strong> — Pop! All four neighbouring tiles reveal — and their effects fire on you. Wizard chains don't propagate; one bang per visit.</div></div>
+        <div class='tile-row'><img src='/media/tile_normalize.png' alt='normalize'><div><strong>Normalize</strong> — The water of forgetting. Strips every active ability you carry.</div></div>
+        <div class='tile-row'><img src='/media/tile_empty.png' alt='empty'><div><strong>Empty</strong> — Just sand. Nothing happens. Catch your breath.</div></div>
+        <div class='tile-row'><img src='/media/tile_home_red.png' alt='home red'><div><strong>Home</strong> — Your safe harbour. Touching <em>your</em> home strips active abilities and re-centres you. The opponent's home is harmless to step on.</div></div>
+      </div>
+
+      <h2>Tips from a salty sailor</h2>
+      <ul class='rules'>
+        <li>Wizard cells are explosive: they can hand you 30+ coins in one move — or send you straight home via a hidden tunnel.</li>
+        <li>If you snag a Thief while the opponent is rich, you'll feel like a billionaire. Time it right.</li>
+        <li>Fly is a one-shot key: don't waste it crossing two tiles when you could be raiding the far corner.</li>
+        <li>Swamp on your opponent's path = a free turn. Plan the ambush.</li>
+      </ul>
+    </section>
+
     <p class='hint'>Share the room URL with the second player. The first two browsers to join become the red and blue players. Anyone else watches.</p>
   </main>
   <script src='/static/lobby.js'></script>
