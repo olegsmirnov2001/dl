@@ -38,3 +38,12 @@ joinForm.addEventListener('submit', (e) => {
   const id = roomIdInput.value.trim().toUpperCase();
   if (id) window.location.href = `/room/${id}`;
 });
+
+const helpToggle = document.getElementById('help-toggle');
+const helpPanel = document.getElementById('help-panel');
+helpToggle.addEventListener('click', () => {
+  const open = helpPanel.classList.toggle('hidden') === false;
+  helpToggle.setAttribute('aria-expanded', String(open));
+  helpPanel.setAttribute('aria-hidden', String(!open));
+  if (open) helpPanel.scrollIntoView({behavior: 'smooth', block: 'nearest'});
+});
